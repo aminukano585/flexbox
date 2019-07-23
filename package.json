@@ -1,0 +1,23 @@
+{
+  "name": "flexbox",
+  "version": "1.0.0",
+  "description": "playing with flexbox",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "start": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminukano585/flexbox.git"
+  },
+  "author": "aminukano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aminukano585/flexbox/issues"
+  },
+  "homepage": "https://github.com/aminukano585/flexbox#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
